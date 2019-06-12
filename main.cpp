@@ -12,14 +12,9 @@ int main()
     for(;;)
     {
         cout<<"KONSOLOWNIK v01 (12.06.19) by Michał Szubiński\n";
-        cout<<"Wersja v01 posiada:\n\n";
-        cout<<"- Kompatybilność z podstawowym formatem bazy pytań testownika z PWr,\n";
-        cout<<"- Przyjmowanie pytań z maksymalnie 10 odpowiedziami abcd(efghij),\n";
-        cout<<"- Możliwość wielu odpowiedzi w pytaniu lub żadnej,\n";
-        cout<<"- Statystyki dotyczące aktualnego testu,\n";
-        cout<<"- Uruchamianiu wielu baz pytań,\n";
-        cout<<"- Mieszanie odpowiedzi,\n";
-        cout<<"- Polskie znaki.\n\n";
+        cout<<"Wersja v01 posiada:\n\n- Kompatybilność z podstawowym formatem bazy pytań testownika z PWr,\n- Przyjmowanie pytań z maksymalnie 10 odpowiedziami abcd(efghij),\n";
+        cout<<"- Możliwość wielu odpowiedzi w pytaniu lub żadnej,\n- Statystyki dotyczace aktualnego testu,\n- Uruchamianiu wielu baz pytań,\n- Mieszanie odpowiedzi,\n- Polskie znaki.\n";
+        cout<<"\nŻeby uruchomić bazę pytań wystarczy wkleić folder bazy pytań do folderu z konsolownikiem, a nastepnię wpisać jego nazwę!\n\n\n";
 
         Test t;
     }
