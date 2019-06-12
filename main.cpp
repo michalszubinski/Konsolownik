@@ -11,10 +11,16 @@ int main()
 
     for(;;)
     {
-        cout<<"KONSOLOWNIK v01 (12.06.19) by Micha³ Szubiñski\n";
-        cout<<"Wersja v01 posiada:\n\n- Kompatybilnoœæ z podstawowym formatem bazy pytañ testownika z PWr,\n- Przyjmowanie pytañ z maksymalnie 10 odpowiedziami abcd(efghij),\n";
-        cout<<"- Mo¿liwoœæ wielu odpowiedzi w pytaniu lub ¿adnej,\n- Statystyki dotyczace aktualnego testu,\n- Uruchamianiu wielu baz pytañ,\n- Mieszanie odpowiedzi,\n- Polskie znaki.\n";
-        cout<<"\n¯eby uruchomiæ bazê pytañ wystarczy wkleiæ folder bazy pytañ do folderu z konsolownikiem, a nastepniê wpisaæ jego nazwê!\n\n\n";
+        cout<<"KONSOLOWNIK v01 (12.06.19) by MichaÅ‚ SzubiÅ„ski\n";
+        cout<<"Wersja v01 posiada:\n\n";
+        cout<<"- KompatybilnoÅ›Ä‡ z podstawowym formatem bazy pytaÅ„ testownika z PWr,\n";
+        cout<<"- Przyjmowanie pytaÅ„ z maksymalnie 10 odpowiedziami abcd(efghij),\n";
+        cout<<"- MoÅ¼liwoÅ›Ä‡ wielu odpowiedzi w pytaniu lub Å¼adnej,\n";
+        cout<<"- Statystyki dotyczÄ…ce aktualnego testu,\n";
+        cout<<"- Uruchamianiu wielu baz pytaÅ„,\n";
+        cout<<"- Mieszanie odpowiedzi,\n";
+        cout<<"- Polskie znaki.\n\n";
+
         Test t;
     }
 

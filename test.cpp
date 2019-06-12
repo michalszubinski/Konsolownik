@@ -22,7 +22,7 @@ Test::Test()
 
     for(;;)
     {
-        cout<<"Podaj nazwê folderu z którego wczytaæ bazê pytañ:\n";
+        cout<<"Wpisz nazwÄ™ bazy pytaÅ„:\n";
         cin>>x;
 
         string loc = "\\"+x;
